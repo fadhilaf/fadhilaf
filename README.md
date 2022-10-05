@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm M Fadhil Al-Fatih</h1>
 <h3 align="center">A passionate student from Palembang, Indonesia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fadhilaf" alt="fadhilaf" /></a> </p>
-
 - 🌱 I’m currently learning **Microservice architecture**
 
 - 👨‍💻 All of my projects are available at [fadhilaf.my.id/specials/portfolio](fadhilaf.my.id/specials/portfolio)
@@ -33,7 +31,7 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/fadhilalf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fadhilalf" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/muhammad fadhil al-fatih" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad fadhil al-fatih" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/fadhilaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="fadhilaf" height="30" width="40" /></a>
-<a href="https://kaggle.com/fadhilaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fadhilaf" height="30" width="40" /></a>
+<a href="https://kaggle.com/mfadhilalfatih" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mfadhilalfatih" height="30" width="40" /></a>
 <a href="https://instagram.com/m_fadhilalfatih" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_fadhilalfatih" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/fadhilaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="fadhilaf" height="30" width="40" /></a>
 </p>
