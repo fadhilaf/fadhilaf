@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **FadhilAF/FadhilAF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm M Fadhil Al-Fatih</h1>
-<h3 align="center">A passionate frontend developer from Palembang, Indonesia</h3>
+<h3 align="center">A passionate student from Palembang, Indonesia</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fadhilaf" alt="fadhilaf" /></a> </p>
 
@@ -36,9 +34,7 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/muhammad fadhil al-fatih" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad fadhil al-fatih" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/fadhilaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="fadhilaf" height="30" width="40" /></a>
 <a href="https://kaggle.com/fadhilaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fadhilaf" height="30" width="40" /></a>
-<a href="https://fb.com/muhammad fadhil al-fatih" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad fadhil al-fatih" height="30" width="40" /></a>
 <a href="https://instagram.com/m_fadhilalfatih" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_fadhilalfatih" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/m fadhil al-fatih" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="m fadhil al-fatih" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/fadhilaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="fadhilaf" height="30" width="40" /></a>
 </p>
 
