@@ -26,6 +26,19 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **falfatih3421@gmail.com**
 
+<h1 align="center">Hi 👋, I'm M Fadhil Al-Fatih</h1>
+<h3 align="center">A passionate student from Palembang, Indonesia</h3>
+
+- 🌱 I’m currently learning **Microservice architecture**
+
+- 👨‍💻 All of my projects are available at [fadhilaf.my.id/specials/portfolio](fadhilaf.my.id/specials/portfolio)
+
+- 📝 I regularly write articles on [fadhilaf.my.id/blog](fadhilaf.my.id/blog)
+
+- 💬 Ask me about **react, express, mongoose, typescript, python**
+
+- 📫 How to reach me **falfatih3421@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/fadhilalf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fadhilalf" height="30" width="40" /></a>
@@ -33,7 +46,7 @@ Here are some ideas to get you started:
 <a href="https://stackoverflow.com/users/fadhilaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="fadhilaf" height="30" width="40" /></a>
 <a href="https://kaggle.com/mfadhilalfatih" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mfadhilalfatih" height="30" width="40" /></a>
 <a href="https://instagram.com/m_fadhilalfatih" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_fadhilalfatih" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/fadhilaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="fadhilaf" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/falfatih3421" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="falfatih3421" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
