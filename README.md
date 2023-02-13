@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm M Fadhil Al-Fatih</h1>
-<h3 align="center">A passionate student from Palembang, Indonesia</h3>
+<h3 align="center">A student from Palembang, Indonesia</h3>
 
 - 🌱 I’m currently learning **Microservice architecture**
 
