@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Microservice architecture**
 
-- 👨‍💻 All of my projects are available at [fadhilaf.my.id/specials/portfolio](fadhilaf.my.id/specials/portfolio)
-
 - 📝 I regularly write articles on [fadhilaf.my.id/blog](fadhilaf.my.id/blog)
 
 - 💬 Ask me about **react, express, mongoose, typescript, python**
