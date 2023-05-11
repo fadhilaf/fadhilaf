@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 📝 I regularly write articles on [fadhilaf.my.id/blog](fadhilaf.my.id/blog)
 
-- 💬 Ask me about **react, express, mongoose, typescript, python**
+- 💬 Ask me about **react, express, mongoose, typescript, python, golang, gin**
 
 - 📫 How to reach me **falfatih3421@gmail.com**
 
