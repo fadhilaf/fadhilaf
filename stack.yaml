@@ -1,0 +1,20 @@
+- name: Golang
+  logo: go
+  url: https://golang.org/
+  color: '#7FD6EA'
+  projects:
+    - url: https://github.com/fadhilaf/s-tech-pplbo
+
+- name: Typescript
+  logo: typescript
+  url: https://www.typescriptlang.org/
+  color: '#3178C6'
+  projects:
+    - url: https://github.com/fadhilaf/studgage-backend
+
+- name: React 
+  logo: react 
+  url: https://react.dev/
+  color: '#007396'
+  projects:
+    - url: https://github.com/fadhilaf/studgage-frontend
