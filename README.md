@@ -45,3 +45,10 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fadhilaf&show_icons=true&locale=en&theme=radical" alt="fadhilaf" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fadhilaf&theme=radical" alt="fadhilaf" /></p>
+<!-- START OF PROFILE STACK, DO NOT REMOVE -->
+| 💻 **Technology** | 🚀 **Projects** |
+| - | - |
+| [![Golang](https://img.shields.io/static/v1?label=&message=Golang&color=7FD6EA&logo=go&logoColor=FFFFFF)](https://golang.org/) | [![s-tech-pplbo](https://img.shields.io/static/v1?label=&message=s-tech-pplbo&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/fadhilaf/s-tech-pplbo) |
+| [![Typescript](https://img.shields.io/static/v1?label=&message=Typescript&color=3178C6&logo=typescript&logoColor=FFFFFF)](https://www.typescriptlang.org/) | [![studgage-backend](https://img.shields.io/static/v1?label=&message=studgage-backend&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/fadhilaf/studgage-backend) |
+| [![React](https://img.shields.io/static/v1?label=&message=React&color=007396&logo=react&logoColor=FFFFFF)](https://react.dev/) | [![studgage-frontend](https://img.shields.io/static/v1?label=&message=studgage-frontend&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/fadhilaf/studgage-frontend) |
+<!-- END OF PROFILE STACK, DO NOT REMOVE -->
