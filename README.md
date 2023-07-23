@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 | 💻 **Technology** | 🚀 **Projects** |
 | - | - |
 | [![Golang](https://img.shields.io/static/v1?label=&message=Golang&color=7FD6EA&logo=go&logoColor=FFFFFF)](https://golang.org/) | [![s-tech-pplbo](https://img.shields.io/static/v1?label=&message=s-tech-pplbo&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/fadhilaf/s-tech-pplbo) |
-| [![Typescript](https://img.shields.io/static/v1?label=&message=Typescript&color=3178C6&logo=typescript&logoColor=FFFFFF)](https://www.typescriptlang.org/) | [![studgage-backend](https://img.shields.io/static/v1?label=&message=studgage-backend&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/fadhilaf/studgage-backend) |
+| [![Typescript](https://img.shields.io/static/v1?label=&message=Typescript&color=3178C6&logo=typescript&logoColor=FFFFFF)](https://www.typescriptlang.org/) | [![studgage-backend](https://img.shields.io/static/v1?label=&message=studgage-backend&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/fadhilaf/studgage-backend) [![ticketing-microservice-app](https://img.shields.io/static/v1?label=&message=ticketing-microservice-app&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/fadhilaf/ticketing-microservice-app) |
 | [![React](https://img.shields.io/static/v1?label=&message=React&color=007396&logo=react&logoColor=FFFFFF)](https://react.dev/) | [![studgage-frontend](https://img.shields.io/static/v1?label=&message=studgage-frontend&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/fadhilaf/studgage-frontend) |
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
 
