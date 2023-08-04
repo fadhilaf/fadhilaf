@@ -84,4 +84,4 @@ Here are some ideas to get you started:
 ### Statistics
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fadhilaf&show_icons=true&locale=en&layout=compact&theme=radical" alt="fadhilaf" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=fadhilaf&show_icons=true&locale=en&theme=radical" alt="fadhilaf" /></p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fadhilaf&theme=radical" alt="fadhilaf" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=fadhilaf&theme=nord&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
