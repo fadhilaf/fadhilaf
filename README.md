@@ -88,8 +88,8 @@ Here are some ideas to get you started:
 ### Statistics
 <div align="center">
     <div>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fadhilaf&show_icons=true&locale=en&layout=compact&theme=nord" alt="fadhilaf" />&nbsp;
-        <img src="https://github-readme-stats.vercel.app/api?username=fadhilaf&show_icons=true&locale=en&theme=nord" alt="fadhilaf" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fadhilaf&show_icons=true&locale=en&layout=compact&theme=nord&hide_border=true" alt="fadhilaf" />&nbsp;
+        <img src="https://github-readme-stats.vercel.app/api?username=fadhilaf&show_icons=true&locale=en&theme=nord&hide_border=true" alt="fadhilaf" />
     </div>
     
 [![GitHub Streak](https://streak-stats.demolab.com?user=fadhilaf&theme=nord&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
