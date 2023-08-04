@@ -42,6 +42,8 @@ Here are some ideas to get you started:
 | [![React](https://img.shields.io/static/v1?label=&message=React&color=007396&logo=react&logoColor=FFFFFF)](https://react.dev/) | [![studgage-frontend](https://img.shields.io/static/v1?label=&message=studgage-frontend&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/fadhilaf/studgage-frontend) |
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
 
+
+
 ### Languages and Tools:
 <p align="left"> 
     <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
@@ -82,6 +84,11 @@ Here are some ideas to get you started:
 </p>
 
 ### Statistics
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fadhilaf&show_icons=true&locale=en&layout=compact&theme=radical" alt="fadhilaf" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=fadhilaf&show_icons=true&locale=en&theme=radical" alt="fadhilaf" /></p>
+<div align="center">
+    <div>
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fadhilaf&show_icons=true&locale=en&layout=compact&theme=radical" alt="fadhilaf" />&nbsp;
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=fadhilaf&show_icons=true&locale=en&theme=radical" alt="fadhilaf" /></p>
+    </div>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=fadhilaf&theme=nord&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+</div>
