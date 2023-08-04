@@ -13,8 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align="center">
 # Hi 👋, I'm M Fadhil Al-Fatih
 ## A student from Palembang, Indonesia
+</div>
 
 - 🌱 I’m currently learning **Life**
 
@@ -85,10 +87,12 @@ Here are some ideas to get you started:
 
 ### Statistics
 <div align="center">
-    <div>
-        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fadhilaf&show_icons=true&locale=en&layout=compact&theme=radical" alt="fadhilaf" />&nbsp;
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=fadhilaf&show_icons=true&locale=en&theme=radical" alt="fadhilaf" /></p>
-    </div>
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=fadhilaf&theme=nord&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+</div>   
+    
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fadhilaf&show_icons=true&locale=en&layout=compact&theme=radical" alt="fadhilaf" />&nbsp;
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=fadhilaf&show_icons=true&locale=en&theme=radical" alt="fadhilaf" /></p>
+
+
+
 </div>
