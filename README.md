@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 📝 I regularly write articles on [fadhilaf.my.id/blog](fadhilaf.my.id/blog)
 
-- 💬 Ask me about **react, express, sql, mongoose, typescript, python, golang, gin, microservice basics, docker, kubernetes**
+- 💬 Ask me about **react, express, sql, mongoose, typescript, python, golang, gin, microservice basics, grpc, rabbitmq, docker, kubernetes**
 
 - 📫 How to reach me **falfatih3421@gmail.com**
 
