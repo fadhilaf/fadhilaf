@@ -18,7 +18,7 @@ Here are some ideas to get you started:
     <h3>A student from Palembang, Indonesia</h3>
 </div>
 
-- 🌱 I’m currently learning **Life**
+- 🌱 I’m currently learning **Machine learning**
 
 - 📝 I regularly write articles on [fadhilaf.my.id/blog](fadhilaf.my.id/blog)
 
