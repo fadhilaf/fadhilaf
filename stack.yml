@@ -3,6 +3,7 @@
   url: https://golang.org/
   color: '#7FD6EA'
   projects:
+    - url: https://github.com/fadhilaf/perbakin-be
     - url: https://github.com/fadhilaf/s-tech-pplbo
 
 - name: Typescript
