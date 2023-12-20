@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **react, express, sql, mongoose, typescript, python, golang, gin, microservice basics, grpc, rabbitmq, docker, kubernetes**
 
-- 📫 How to reach me **Muhammad Fadhil Al-Fatih At LinkedIn**
+- 📫 How to reach me **Muhammad Fadhil Al-Fatih at LinkedIn**
 
 ### Connect with me:
 <a href="https://twitter.com/fadhilalf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fadhilalf" height="30" width="40" /></a>
