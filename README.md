@@ -18,11 +18,11 @@ Here are some ideas to get you started:
     <h3>A student from Palembang, Indonesia</h3>
 </div>
 
-- 🌱 I’m currently learning **Machine learning**
+- 🌱 I’m currently learning **Idk, DDD? mockito? and design pattern?**
 
 - 📝 I regularly write articles on [fadhilaf.my.id/blog](fadhilaf.my.id/blog)
 
-- 💬 Ask me about **react, express, sql, mongoose, typescript, python, golang, gin, microservice basics, grpc, rabbitmq, docker, kubernetes**
+- 💬 Ask me about **react, express, sql, mongoose, typescript, python, golang, gin, microservice basics, grpc, rabbitmq, docker, kubernetes, tensorflow**
 
 - 📫 How to reach me **Muhammad Fadhil Al-Fatih at LinkedIn**
 
