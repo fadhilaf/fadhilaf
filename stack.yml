@@ -4,7 +4,7 @@
   color: '#7FD6EA'
   projects:
     - url: https://github.com/fadhilaf/perbakin-be
-    - url: https://github.com/fadhilaf/s-tech-pplbo
+    - url: https://github.com/fadhilaf/shop-app-sqlc
 
 - name: Typescript
   logo: typescript
